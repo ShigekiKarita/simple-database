@@ -1,0 +1,1 @@
+[#simple_database.core.album{:title "Roses", :artist "Kathy Mattea", :rating 7, :ripped true} #simple_database.core.album{:title "Hoge", :artist "Fuga", :rating 9, :ripped false}]
